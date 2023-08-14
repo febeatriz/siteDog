@@ -1,0 +1,47 @@
+header{
+    display: flex;
+    justify-content: center;
+    color: blueviolet;
+}
+
+h1{
+    font-size: 300%;
+}
+
+h3{
+    color: black;
+    font-size: 200%;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 500px;
+    height: 350px;
+    border-radius: 20px;
+    justify-content: center;
+}
+
+button{
+    color: white;
+    background-color: blueviolet;
+    padding: 10px 28px;
+    border-radius: 10%;
+    font-size: 80%;
+}
+button:hover{
+    background-color: black;
+    cursor: pointer;
+}
+
+
+div{
+    margin: 45px;
+}
+
+body{
+    background-color: whitesmoke;
+}
